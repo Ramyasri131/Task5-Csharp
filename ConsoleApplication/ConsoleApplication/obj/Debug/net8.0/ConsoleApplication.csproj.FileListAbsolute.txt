@@ -1,0 +1,15 @@
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.exe
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.deps.json
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.runtimeconfig.json
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.dll
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\bin\Debug\net8.0\ConsoleApplication.pdb
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfoInputs.cache
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.AssemblyInfo.cs
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.sourcelink.json
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.dll
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\refint\ConsoleApplication.dll
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.pdb
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ConsoleApplication.genruntimeconfig.cache
+C:\Workspace\Tasks\Task5-Csharp\ConsoleApplication\ConsoleApplication\obj\Debug\net8.0\ref\ConsoleApplication.dll
